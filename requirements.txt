@@ -1,0 +1,9 @@
+streamlit
+pyvis
+networkx
+plotly
+pymupdf
+PySide6
+requests
+spacy
+PySide6
